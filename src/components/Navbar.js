@@ -7,8 +7,8 @@ const Navbar = () => {
         <h2>React-Repo</h2>
       </div>
       <div className="Options">
-        <p>teste</p>
-        <p>teste</p>
+        <p>Users</p>
+        <p>Login</p>
       </div>
     </div>
   )
