@@ -1,3 +1,45 @@
-.App {
-  text-align: center;
+header {
+  display: flex;
+  align-items: center;
+}
+
+p,
+h2 {
+  color: #fff
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 20px;
+}
+
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Options {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 40%;
+
+}
+
+.Input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+input {
+  width: 35%;
+  height: 40px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
 }
